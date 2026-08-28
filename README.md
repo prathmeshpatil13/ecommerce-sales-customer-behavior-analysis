@@ -6,6 +6,11 @@ This project analyzes e-commerce sales and customer behaviour data to identify i
 
 An interactive Power BI dashboard was created to present the analysis in a clear and business-friendly format.
 
+## 📊 Power BI Dashboard
+
+![E-Commerce Power BI Dashboard](power-bi-dashboard.png)
+
+
 ## 🎯 Objectives
 
 - Analyze overall sales and revenue performance
