@@ -27,7 +27,6 @@ An interactive Power BI dashboard was created to present the analysis in a clear
 - Python
 - Pandas
 - Power BI
-- SQL
 - Data Visualization
 
 ## 📈 Key Dashboard KPIs
