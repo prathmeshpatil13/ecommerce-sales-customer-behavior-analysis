@@ -67,7 +67,6 @@ The Power BI dashboard includes:
 ecommerce-sales-customer-behavior-analysis/
 │
 ├── README.md
-├── data/
 ├── python/
 ├── powerbi/
 └── screenshots/
